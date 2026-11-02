@@ -1,0 +1,81 @@
+{
+ "checked": "2026-10-21T02:28:30.536Z",
+ "title": "File:Interior of Massey Hall, r-4116.jpg",
+ "url": "https://commons.wikimedia.org/wiki/File:Interior_of_Massey_Hall,_r-4116.jpg",
+ "extmetadata": {
+  "DateTime": {
+   "value": "2017-05-21 15:37:36",
+   "source": "mediawiki-metadata",
+   "hidden": ""
+  },
+  "ObjectName": {
+   "value": "Interior of Massey Hall, r-4116",
+   "source": "mediawiki-metadata"
+  },
+  "CommonsMetadataExtension": {
+   "value": 1.2,
+   "source": "extension",
+   "hidden": ""
+  },
+  "Categories": {
+   "value": "Massey Hall|PD Canada|Images from Toronto Public Library|1894 in Toronto",
+   "source": "commons-categories",
+   "hidden": ""
+  },
+  "Assessments": {
+   "value": "",
+   "source": "commons-categories",
+   "hidden": ""
+  },
+  "ImageDescription": {
+   "value": "This image is available from the <a href=\"https://en.wikipedia.org/wiki/Toronto_Public_Library\" class=\"extiw\" title=\"en:Toronto Public Library\">Toronto Public Library</a> under the reference number <b>TEC 361.5</b>",
+   "source": "commons-desc-page"
+  },
+  "DateTimeOriginal": {
+   "value": "1894",
+   "source": "commons-desc-page"
+  },
+  "Credit": {
+   "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.torontopubliclibrary.ca/detail.jsp?Entt=RDMDC-PICTURES-R-4116&amp;R=DC-PICTURES-R-4116\">http://www.torontopubliclibrary.ca/detail.jsp?Entt=RDMDC-PICTURES-R-4116&amp;R=DC-PICTURES-R-4116</a>",
+   "source": "commons-desc-page"
+  },
+  "Artist": {
+   "value": "B. W. Kilburn",
+   "source": "commons-desc-page"
+  },
+  "Permission": {
+   "value": "This <a href=\"//commons.wikimedia.org/wiki/Canada\" title=\"Canada\">Canadian</a> work is in the <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Public_domain\" class=\"extiw\" title=\"en:Public domain\"><span lang=\"en\" dir=\"ltr\">public domain</span></a></span> in Canada because its copyright has expired due to one of the following:\n<dl><dd><b>1.</b> It was subject to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Crown_copyright\" class=\"extiw\" title=\"en:Crown copyright\"><span lang=\"en\" dir=\"ltr\">Crown copyright</span></a></span> and was first published more than 50 years ago, or</dd></dl>\n<p>it was <i>not</i> subject to Crown copyright, and\n</p>\n<dl><dd><b>2.</b> it is a photograph that was created prior to January 1, 1949, or</dd>\n<dd><b>3.</b> the creator died prior to January 1, 1972.</dd></dl>",
+   "source": "commons-desc-page",
+   "hidden": ""
+  },
+  "LicenseShortName": {
+   "value": "Public domain",
+   "source": "commons-desc-page",
+   "hidden": ""
+  },
+  "UsageTerms": {
+   "value": "Public domain",
+   "source": "commons-desc-page"
+  },
+  "AttributionRequired": {
+   "value": "false",
+   "source": "commons-desc-page",
+   "hidden": ""
+  },
+  "Copyrighted": {
+   "value": "False",
+   "source": "commons-desc-page",
+   "hidden": ""
+  },
+  "Restrictions": {
+   "value": "",
+   "source": "commons-desc-page",
+   "hidden": ""
+  },
+  "License": {
+   "value": "pd",
+   "source": "commons-templates",
+   "hidden": ""
+  }
+ }
+}

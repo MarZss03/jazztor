@@ -1,0 +1,173 @@
+{
+ "_doc": "Museum hanging plan (Blender metres, museum-local: x across, y into the building, z up). wall: VW/VE vestibule west/east, VN the vestibule's north niche, WO/WI/WB/WF world wing outer/inner/back/front, TO/TI/TB/TF Toronto wing. u = position along the wall (y for x-walls, x for y-walls), z = centre height of the group, h = picture height, label: side (wall text right of the frame) | below | none. aspect = picture width / height (from the Commons file). Content (captions, credits) lives in app/src/data/exhibits.ts.",
+ "exhibits": [
+  {
+   "id": "v-intro",
+   "wall": "VW",
+   "u": 1.05,
+   "z": 1.72,
+   "kind": "text",
+   "tw": 0.74,
+   "th": 1
+  },
+  {
+   "id": "v-jazzband",
+   "wall": "VN",
+   "u": 0,
+   "z": 1.85,
+   "h": 1.05,
+   "aspect": 0.987,
+   "label": "none"
+  },
+  {
+   "id": "v-armstrong",
+   "wall": "VW",
+   "u": 3.4,
+   "z": 2.05,
+   "h": 1.15,
+   "aspect": 0.759,
+   "label": "below"
+  },
+  {
+   "id": "v-ellington",
+   "wall": "VW",
+   "u": 5.78,
+   "z": 2.05,
+   "h": 0.74,
+   "aspect": 0.992,
+   "label": "below"
+  },
+  {
+   "id": "v-visit",
+   "wall": "VE",
+   "u": 1.05,
+   "z": 1.72,
+   "kind": "text",
+   "tw": 0.74,
+   "th": 1
+  },
+  {
+   "id": "v-holiday",
+   "wall": "VE",
+   "u": 3.4,
+   "z": 2.05,
+   "h": 1,
+   "aspect": 0.958,
+   "label": "below"
+  },
+  {
+   "id": "v-gillespie",
+   "wall": "VE",
+   "u": 5.78,
+   "z": 2.05,
+   "h": 0.74,
+   "aspect": 0.966,
+   "label": "below"
+  },
+  {
+   "id": "w-odjb",
+   "wall": "WO",
+   "u": 7.62,
+   "z": 1.95,
+   "h": 0.98,
+   "aspect": 0.842,
+   "label": "side"
+  },
+  {
+   "id": "w-hotfive",
+   "wall": "WO",
+   "u": 9.72,
+   "z": 1.95,
+   "h": 1.2,
+   "aspect": 0.444,
+   "label": "side"
+  },
+  {
+   "id": "w-django",
+   "wall": "WB",
+   "u": -5.45,
+   "z": 1.95,
+   "h": 0.66,
+   "aspect": 0.953,
+   "label": "side"
+  },
+  {
+   "id": "w-carnegie",
+   "wall": "WI",
+   "u": 9.75,
+   "z": 2.32,
+   "h": 0.66,
+   "aspect": 0.992,
+   "label": "side"
+  },
+  {
+   "id": "w-mintons",
+   "wall": "WI",
+   "u": 7.65,
+   "z": 2.32,
+   "h": 0.66,
+   "aspect": 0.968,
+   "label": "side"
+  },
+  {
+   "id": "w-kob",
+   "wall": "WF",
+   "u": -5.35,
+   "z": 1.95,
+   "h": 0.56,
+   "aspect": 1.332,
+   "label": "side",
+   "tw": 0.46
+  },
+  {
+   "id": "w-getz",
+   "wall": "WF",
+   "u": -3.95,
+   "z": 1.95,
+   "h": 0.62,
+   "aspect": 0.75,
+   "label": "below",
+   "tw": 0.62,
+   "th": 0.5
+  },
+  {
+   "id": "t-massey",
+   "wall": "TI",
+   "u": 7.65,
+   "z": 2.3,
+   "h": 0.68,
+   "aspect": 0.982,
+   "label": "side"
+  },
+  {
+   "id": "t-yonge",
+   "wall": "TI",
+   "u": 9.75,
+   "z": 2.3,
+   "h": 0.5,
+   "aspect": 1.488,
+   "label": "side",
+   "tw": 0.46
+  },
+  {
+   "id": "t-peterson-1944",
+   "wall": "TB",
+   "u": 3.98,
+   "z": 2.42,
+   "h": 0.42,
+   "aspect": 1.272,
+   "label": "below",
+   "tw": 0.7,
+   "th": 0.56
+  },
+  {
+   "id": "t-ella-oscar",
+   "wall": "TF",
+   "u": 4.8,
+   "z": 1.95,
+   "h": 0.72,
+   "aspect": 1,
+   "label": "side"
+  }
+ ]
+}

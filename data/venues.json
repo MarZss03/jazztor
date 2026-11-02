@@ -1,0 +1,114 @@
+{
+  "note": "Names, addresses and categories only. Opening status, history and events must be verified before launch.",
+  "attribution": "Geocoding © OpenStreetMap contributors (ODbL 1.0) via Nominatim",
+  "venues": [
+    {
+      "id": "rex",
+      "name": "The Rex Hotel Jazz & Blues Bar",
+      "address": "194 Queen St W, Toronto",
+      "category": "live",
+      "lat": 43.650536,
+      "lon": -79.38847,
+      "geocoder": "Nominatim: The Rex Jazz & Blues Bar, 194, Queen Street West, Wellington Place, Spadina—Fort York, Toronto, Ontario, M5V 1Z1, Canada"
+    },
+    {
+      "id": "jazzbistro",
+      "name": "Jazz Bistro",
+      "address": "251 Victoria St, Toronto",
+      "category": "live",
+      "lat": 43.655813,
+      "lon": -79.379061,
+      "geocoder": "Nominatim: Jazz Bistro, 251, Victoria Street, Downtown Yonge East, Toronto Centre, Toronto, Ontario, M5B 1T8, Canada"
+    },
+    {
+      "id": "poetry",
+      "name": "Poetry Jazz Café",
+      "address": "224 Augusta Ave, Toronto",
+      "category": "live",
+      "lat": 43.654889,
+      "lon": -79.402276,
+      "geocoder": "Nominatim: Poetry Jazz Cafe, 224, Augusta Avenue, Kensington Market, Downtown, Toronto, Ontario, M5T 2L8, Canada"
+    },
+    {
+      "id": "lula",
+      "name": "Lula Lounge",
+      "address": "1585 Dundas St W, Toronto",
+      "category": "live",
+      "lat": 43.64965,
+      "lon": -79.43458,
+      "geocoder": "Nominatim: 1585, Dundas Street West, Little Portugal, Davenport, Toronto, Ontario, M6K 1T9, Canada"
+    },
+    {
+      "id": "grossmans",
+      "name": "Grossman's Tavern",
+      "address": "379 Spadina Ave, Toronto",
+      "category": "live",
+      "lat": 43.65603,
+      "lon": -79.398947,
+      "geocoder": "Nominatim: Grossman's Tavern, 379, Spadina Avenue, Kensington-Chinatown, Downtown, Toronto, Ontario, M5T 2G6, Canada"
+    },
+    {
+      "id": "massey",
+      "name": "Massey Hall",
+      "address": "178 Victoria St, Toronto",
+      "category": "hall",
+      "lat": 43.653967,
+      "lon": -79.378981,
+      "geocoder": "Nominatim: Massey Hall, 178, Victoria Street, Downtown Yonge East, Toronto Centre, Toronto, Ontario, M5B 1W8, Canada"
+    },
+    {
+      "id": "koerner",
+      "name": "Koerner Hall",
+      "address": "273 Bloor St W, Toronto",
+      "category": "hall",
+      "lat": 43.667931,
+      "lon": -79.396255,
+      "geocoder": "Nominatim: 273, Bloor Street West, Annex, Downtown, Toronto, Ontario, M5S 1W2, Canada"
+    },
+    {
+      "id": "roythomson",
+      "name": "Roy Thomson Hall",
+      "address": "60 Simcoe St, Toronto",
+      "category": "hall",
+      "lat": 43.646559,
+      "lon": -79.386339,
+      "geocoder": "Nominatim: Roy Thomson Hall, 60, Simcoe Street, Wellington Place, Spadina—Fort York, Toronto, Ontario, M5J 1V6, Canada"
+    },
+    {
+      "id": "harbourfront",
+      "name": "Harbourfront Centre",
+      "address": "235 Queens Quay W, Toronto",
+      "category": "hall",
+      "lat": 43.639392,
+      "lon": -79.382026,
+      "geocoder": "Nominatim: 235, Queens Quay West, Harbourfront-CityPlace, Downtown, Toronto, Ontario, M5J 2Y6, Canada"
+    },
+    {
+      "id": "colonial",
+      "name": "Colonial Tavern (site)",
+      "address": "203 Yonge St, Toronto",
+      "category": "historic",
+      "lat": 43.653416,
+      "lon": -79.379553,
+      "geocoder": "Nominatim: 203, Yonge Street, Downtown Yonge East, Toronto Centre, Toronto, Ontario, M5B 1M4, Canada"
+    },
+    {
+      "id": "georges",
+      "name": "George's Spaghetti House (site)",
+      "address": "290 Dundas St E, Toronto",
+      "category": "historic",
+      "lat": 43.658381,
+      "lon": -79.371205,
+      "geocoder": "Nominatim: 290, Dundas Street East, Moss Park, Downtown, Toronto, Ontario, M5A 1Z9, Canada"
+    },
+    {
+      "id": "towntavern",
+      "name": "Town Tavern (site)",
+      "address": "16 Queen St E, Toronto",
+      "category": "historic",
+      "lat": 43.652838,
+      "lon": -79.37772,
+      "geocoder": "Nominatim: 16, Queen Street East, Downtown Yonge East, Toronto Centre, Toronto, Ontario, M5B 1W8, Canada"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+# JazzTor repository: the app (deployed from app/ by Vercel), its sources (Blender scripts and scenes, data,
+# licence evidence). Everything regenerable, local or temporary stays out.
+
+# local tooling / caches (see Use-JazztorEnv.ps1 - all kept on D:)
+.temp/
+.cache/
+.tools/
+.blender/
+.claude/
+node_modules/
+app/dist/
+*.tsbuildinfo
+# machine-specific npm settings (D:\ cache paths): the CI / Vercel build uses its own defaults
+app/.npmrc
+
+# Blender: renders, exports and generated textures are rebuilt by blender/scripts + app/scripts/compress.mjs
+blender/renders/
+blender/exports/
+blender/textures/
+*.blend1
+
+# audio originals: byte-identical copies ship in app/public/assets/audio (licence register in audio/licenses)
+audio/source/
+
+# report screenshots (the README.md reports stay)
+reports/**/*.png
+reports/**/*.jpg
+reports/**/*.webp
+
+# supplied originals and packages kept outside the repo
+upgrade v1 pics/
+assets/ui/
+assets/concepts/
+*.zip
+
+# OS / editor
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/

@@ -1,0 +1,23 @@
+{
+ "width": 1672,
+ "height": 941,
+ "pxPerDeg": 39.88263333388388,
+ "hfovDeg": 41.92300909527671,
+ "vfovDeg": 23.59422940110968,
+ "shoreRow": 613,
+ "cnTower": {
+  "x": 967,
+  "tipRow": 62
+ },
+ "alignment": {
+  "dusk": [
+   0,
+   0
+  ],
+  "night": [
+   0,
+   0
+  ]
+ },
+ "source": "Supplied by the project owner (upgrade v1 pics); licence to be confirmed \u2014 see assets/environment/licenses"
+}

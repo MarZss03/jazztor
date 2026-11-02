@@ -1,0 +1,12 @@
+{
+ "lat0": 43.641,
+ "lon0": -79.4,
+ "kx": 80559.85663095291,
+ "ky": 110540.0,
+ "rot": 0.291469985083053,
+ "scale": 0.00013598864338353175,
+ "mapW": 1.3,
+ "mapH": 0.82,
+ "land": 0.004,
+ "attribution": "\u00a9 OpenStreetMap contributors (ODbL 1.0)"
+}

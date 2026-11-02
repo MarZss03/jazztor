@@ -1,0 +1,151 @@
+{
+ "quality": "auto",
+ "gpu": "dgpu",
+ "results": [
+  {
+   "name": "page opens and the room is interactive",
+   "ok": true,
+   "detail": "12.2 s, tier high"
+  },
+  {
+   "name": "idle in the room while stations load in the background: no freezes",
+   "ok": true,
+   "detail": "73 fps over 22 s, worst 107 ms, 3 long frames"
+  },
+  {
+   "name": "music plays (position advances, signal on the meters)",
+   "ok": true,
+   "detail": "+3.02 s in 3 s, levels 0.065/0.067"
+  },
+  {
+   "name": "home-dusk: smooth",
+   "ok": true,
+   "detail": "75 fps, worst 14 ms, 0 long frames"
+  },
+  {
+   "name": "home-dusk: lighting",
+   "ok": true,
+   "detail": "mean 0.082, black 35.9 %, clipped 0.01 %"
+  },
+  {
+   "name": "home-night: smooth",
+   "ok": true,
+   "detail": "75 fps, worst 14 ms, 0 long frames"
+  },
+  {
+   "name": "home-night: lighting",
+   "ok": true,
+   "detail": "mean 0.073, black 42.6 %, clipped 0.01 %"
+  },
+  {
+   "name": "home-day: smooth",
+   "ok": true,
+   "detail": "75 fps, worst 14 ms, 0 long frames"
+  },
+  {
+   "name": "home-day: lighting",
+   "ok": true,
+   "detail": "mean 0.169, black 32.3 %, clipped 0.17 %"
+  },
+  {
+   "name": "platter: smooth",
+   "ok": true,
+   "detail": "75 fps, worst 14 ms, 0 long frames"
+  },
+  {
+   "name": "platter: lighting",
+   "ok": true,
+   "detail": "mean 0.094, black 37.8 %, clipped 0.01 %"
+  },
+  {
+   "name": "cabinet: smooth",
+   "ok": true,
+   "detail": "75 fps, worst 14 ms, 0 long frames"
+  },
+  {
+   "name": "cabinet: lighting",
+   "ok": true,
+   "detail": "mean 0.051, black 65.5 %, clipped 0.00 %"
+  },
+  {
+   "name": "first flight to the map table: smooth",
+   "ok": true,
+   "detail": "worst 40 ms, 0 long frames"
+  },
+  {
+   "name": "map: smooth",
+   "ok": true,
+   "detail": "75 fps, worst 14 ms, 0 long frames"
+  },
+  {
+   "name": "map: lighting",
+   "ok": true,
+   "detail": "mean 0.120, black 25.0 %, clipped 0.01 %"
+  },
+  {
+   "name": "museum opens through the door without visible stutter",
+   "ok": true,
+   "detail": "270 frames, worst visible 14 ms, 0 visible > 50 ms; worst under the fade 173 ms"
+  },
+  {
+   "name": "museum window: a modelled city, not a photograph",
+   "ok": true,
+   "detail": "{\"photo\":false,\"outside\":true,\"buildings\":31}"
+  },
+  {
+   "name": "museum-vestibule: smooth",
+   "ok": true,
+   "detail": "75 fps, worst 14 ms, 0 long frames"
+  },
+  {
+   "name": "museum-vestibule: lighting",
+   "ok": true,
+   "detail": "mean 0.128, black 3.3 %, clipped 0.00 %"
+  },
+  {
+   "name": "museum-world: smooth",
+   "ok": true,
+   "detail": "75 fps, worst 14 ms, 0 long frames"
+  },
+  {
+   "name": "museum-world: lighting",
+   "ok": true,
+   "detail": "mean 0.183, black 0.2 %, clipped 0.00 %"
+  },
+  {
+   "name": "museum-exhibit: smooth",
+   "ok": true,
+   "detail": "75 fps, worst 14 ms, 0 long frames"
+  },
+  {
+   "name": "museum-exhibit: lighting",
+   "ok": true,
+   "detail": "mean 0.291, black 0.8 %, clipped 0.00 %"
+  },
+  {
+   "name": "museum-toronto: smooth",
+   "ok": true,
+   "detail": "75 fps, worst 14 ms, 0 long frames"
+  },
+  {
+   "name": "museum-toronto: lighting",
+   "ok": true,
+   "detail": "mean 0.117, black 6.9 %, clipped 0.00 %"
+  },
+  {
+   "name": "music keeps playing inside the museum",
+   "ok": true,
+   "detail": "+2.02 s in 2 s"
+  },
+  {
+   "name": "back home from the museum",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "name": "no page errors",
+   "ok": true,
+   "detail": ""
+  }
+ ]
+}

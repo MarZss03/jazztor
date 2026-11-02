@@ -1,0 +1,41 @@
+{
+  "name": "jazztor",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview",
+    "sync-assets": "node scripts/sync-assets.mjs"
+  },
+  "dependencies": {
+    "@react-three/drei": "9.114.0",
+    "@react-three/fiber": "8.17.10",
+    "@react-three/postprocessing": "2.16.3",
+    "postprocessing": "6.36.3",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "three": "0.169.0",
+    "zustand": "4.5.5"
+  },
+  "devDependencies": {
+    "@gltf-transform/core": "^4.5.1",
+    "@gltf-transform/extensions": "^4.5.1",
+    "@gltf-transform/functions": "^4.5.1",
+    "@types/react": "18.3.11",
+    "@types/react-dom": "18.3.1",
+    "@types/three": "0.169.0",
+    "@vitejs/plugin-react": "4.3.2",
+    "draco3dgltf": "^1.5.7",
+    "jpeg-js": "^0.4.4",
+    "ktx2-encoder": "^0.6.0",
+    "playwright-core": "^1.48.2",
+    "pngjs": "^7.0.0",
+    "typescript": "5.6.3",
+    "vite": "5.4.10"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

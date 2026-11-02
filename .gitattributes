@@ -1,0 +1,19 @@
+# text in the repository with LF line endings (the Linux build machines and Windows checkouts agree)
+* text=auto eol=lf
+*.ps1 text eol=crlf
+
+# binary assets: never diffed or line-converted
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
+*.hdr binary
+*.ktx2 binary
+*.bin binary
+*.glb binary
+*.blend binary
+*.mp3 binary
+*.wasm binary
+*.ttf binary
+*.woff2 binary
+*.pdf binary

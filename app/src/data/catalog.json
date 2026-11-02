@@ -1,0 +1,475 @@
+{
+ "generated": "2026-10-22T01:16:03.866Z",
+ "records": [
+  {
+   "id": "maarten-schellekens--public-domain",
+   "title": "Public Domain",
+   "artist": "Maarten Schellekens",
+   "cover": "/assets/albums/maarten-schellekens--public-domain-1024.jpg",
+   "dominant": "#c9c0b4",
+   "accent": "#c47958",
+   "duration": 94.2,
+   "tracks": [
+    {
+     "id": "245614",
+     "title": "Sax and Piano",
+     "src": "/assets/audio/245614.mp3",
+     "sourceUrl": "https://freemusicarchive.org/music/maarten-schellekens/public-domain-1/sax-and-piano-free-track/",
+     "duration": 94.2,
+     "start": 0,
+     "gainDb": 0
+    }
+   ],
+   "licence": "CC0 1.0",
+   "licenceUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "attributionRequired": false,
+   "sourceUrl": "https://freemusicarchive.org/music/maarten-schellekens/public-domain-1/sax-and-piano-free-track/",
+   "artistUrl": "https://freemusicarchive.org/music/maarten-schellekens/"
+  },
+  {
+   "id": "holiznacc0--city-slacker",
+   "title": "City Slacker",
+   "artist": "HoliznaCC0",
+   "cover": "/assets/albums/holiznacc0--city-slacker-1024.jpg",
+   "dominant": "#726160",
+   "accent": "#ab9579",
+   "duration": 1354,
+   "tracks": [
+    {
+     "id": "203443",
+     "title": "Busking In the SunLight",
+     "src": "/assets/audio/203443.mp3",
+     "sourceUrl": "https://freemusicarchive.org/music/holiznacc0/city-slacker/busking-in-the-sunlight/",
+     "duration": 262.7,
+     "start": 0,
+     "gainDb": -4.9
+    },
+    {
+     "id": "203445",
+     "title": "Busted AC Unit",
+     "src": "/assets/audio/203445.mp3",
+     "sourceUrl": "https://freemusicarchive.org/music/holiznacc0/city-slacker/busted-ac-unit/",
+     "duration": 151.5,
+     "start": 264.7,
+     "gainDb": -4.1
+    },
+    {
+     "id": "203446",
+     "title": "Nowhere To Be, Nothing To Do",
+     "src": "/assets/audio/203446.mp3",
+     "sourceUrl": "https://freemusicarchive.org/music/holiznacc0/city-slacker/nowhere-to-be-nothing-to-do/",
+     "duration": 217.5,
+     "start": 418.2,
+     "gainDb": -1
+    },
+    {
+     "id": "205354",
+     "title": "Hooptie With The Windows Down",
+     "src": "/assets/audio/205354.mp3",
+     "sourceUrl": "https://freemusicarchive.org/music/holiznacc0/city-slacker/hooptie-with-the-windows-down/",
+     "duration": 234,
+     "start": 637.7,
+     "gainDb": -1.1
+    },
+    {
+     "id": "212880",
+     "title": "Moving Forward",
+     "src": "/assets/audio/212880.mp3",
+     "sourceUrl": "https://freemusicarchive.org/music/holiznacc0/city-slacker/moving-forward/",
+     "duration": 128.9,
+     "start": 873.7,
+     "gainDb": -2.5
+    },
+    {
+     "id": "212604",
+     "title": "Day Trips",
+     "src": "/assets/audio/212604.mp3",
+     "sourceUrl": "https://freemusicarchive.org/music/holiznacc0/city-slacker/day-trips/",
+     "duration": 183.9,
+     "start": 1004.6,
+     "gainDb": -3.6
+    },
+    {
+     "id": "212881",
+     "title": "Fresh Fit",
+     "src": "/assets/audio/212881.mp3",
+     "sourceUrl": "https://freemusicarchive.org/music/holiznacc0/city-slacker/fresh-fit/",
+     "duration": 163.5,
+     "start": 1190.5,
+     "gainDb": -6.2
+    }
+   ],
+   "licence": "CC0 1.0",
+   "licenceUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "attributionRequired": false,
+   "sourceUrl": "https://freemusicarchive.org/music/holiznacc0/city-slacker/busking-in-the-sunlight/",
+   "artistUrl": "https://freemusicarchive.org/music/holiznacc0/"
+  },
+  {
+   "id": "holiznacc0--busted-guitar-jazz",
+   "title": "Busted Guitar (JAZZ)",
+   "artist": "HoliznaCC0",
+   "cover": "/assets/albums/holiznacc0--busted-guitar-jazz-1024.jpg",
+   "dominant": "#8b7860",
+   "accent": "#c7a983",
+   "duration": 711.6,
+   "tracks": [
+    {
+     "id": "204029",
+     "title": "2 (jazz)",
+     "src": "/assets/audio/204029.mp3",
+     "sourceUrl": "https://freemusicarchive.org/music/holiznacc0/busted-guitar-jazz/2-jazz/",
+     "duration": 164.1,
+     "start": 0,
+     "gainDb": -4.5
+    },
+    {
+     "id": "204031",
+     "title": "4 (jazz)",
+     "src": "/assets/audio/204031.mp3",
+     "sourceUrl": "https://freemusicarchive.org/music/holiznacc0/busted-guitar-jazz/4-jazz/",
+     "duration": 256.4,
+     "start": 166.1,
+     "gainDb": -3.9
+    },
+    {
+     "id": "204030",
+     "title": "3 (jazz)",
+     "src": "/assets/audio/204030.mp3",
+     "sourceUrl": "https://freemusicarchive.org/music/holiznacc0/busted-guitar-jazz/3-jazz/",
+     "duration": 162.1,
+     "start": 424.5,
+     "gainDb": -3.5
+    },
+    {
+     "id": "204028",
+     "title": "1 (jazz)",
+     "src": "/assets/audio/204028.mp3",
+     "sourceUrl": "https://freemusicarchive.org/music/holiznacc0/busted-guitar-jazz/1-jazz/",
+     "duration": 123,
+     "start": 588.6,
+     "gainDb": -4.6
+    }
+   ],
+   "licence": "CC0 1.0",
+   "licenceUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "attributionRequired": false,
+   "sourceUrl": "https://freemusicarchive.org/music/holiznacc0/busted-guitar-jazz/2-jazz/",
+   "artistUrl": "https://freemusicarchive.org/music/holiznacc0/"
+  },
+  {
+   "id": "jesse-spillane--the-meeting-place",
+   "title": "The Meeting Place",
+   "artist": "Jesse Spillane",
+   "cover": "/assets/albums/jesse-spillane--the-meeting-place-1024.jpg",
+   "dominant": "#582c3c",
+   "accent": "#8e4047",
+   "duration": 134.2,
+   "tracks": [
+    {
+     "id": "217577",
+     "title": "At the End of the Show",
+     "src": "/assets/audio/217577.mp3",
+     "sourceUrl": "https://freemusicarchive.org/music/Jesse_Spillane/the-meeting-place/at-the-end-of-the-show/",
+     "duration": 134.2,
+     "start": 0,
+     "gainDb": -1
+    }
+   ],
+   "licence": "CC BY 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "attributionRequired": true,
+   "sourceUrl": "https://freemusicarchive.org/music/Jesse_Spillane/the-meeting-place/at-the-end-of-the-show/",
+   "artistUrl": "https://freemusicarchive.org/music/Jesse_Spillane/"
+  },
+  {
+   "id": "jesse-spillane--the-big-idea-machine",
+   "title": "The Big Idea Machine",
+   "artist": "Jesse Spillane",
+   "cover": "/assets/albums/jesse-spillane--the-big-idea-machine-1024.jpg",
+   "dominant": "#774893",
+   "accent": "#5a5dc7",
+   "duration": 190.7,
+   "tracks": [
+    {
+     "id": "217250",
+     "title": "Scratch Pad",
+     "src": "/assets/audio/217250.mp3",
+     "sourceUrl": "https://freemusicarchive.org/music/Jesse_Spillane/the-big-idea-machine/scratch-pad/",
+     "duration": 190.7,
+     "start": 0,
+     "gainDb": -1.3
+    }
+   ],
+   "licence": "CC BY 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "attributionRequired": true,
+   "sourceUrl": "https://freemusicarchive.org/music/Jesse_Spillane/the-big-idea-machine/scratch-pad/",
+   "artistUrl": "https://freemusicarchive.org/music/Jesse_Spillane/"
+  },
+  {
+   "id": "ketsa--cc-by-free-to-use-for-anything",
+   "title": "CC BY: Free to Use for Anything",
+   "artist": "Ketsa",
+   "cover": "/assets/albums/ketsa--cc-by-free-to-use-for-anything-1024.jpg",
+   "dominant": "#61656d",
+   "accent": "#4d6c91",
+   "duration": 411.4,
+   "tracks": [
+    {
+     "id": "247464",
+     "title": "Night Jazz",
+     "src": "/assets/audio/247464.mp3",
+     "sourceUrl": "https://freemusicarchive.org/music/Ketsa/cc-by-free-to-use-for-anything/night-jazz/",
+     "duration": 216.9,
+     "start": 0,
+     "gainDb": -3.3
+    },
+    {
+     "id": "247385",
+     "title": "Life is Great",
+     "src": "/assets/audio/247385.mp3",
+     "sourceUrl": "https://freemusicarchive.org/music/Ketsa/cc-by-free-to-use-for-anything/life-is-great/",
+     "duration": 192.5,
+     "start": 218.9,
+     "gainDb": -3.7
+    }
+   ],
+   "licence": "CC BY 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "attributionRequired": true,
+   "sourceUrl": "https://freemusicarchive.org/music/Ketsa/cc-by-free-to-use-for-anything/night-jazz/",
+   "artistUrl": "https://freemusicarchive.org/music/Ketsa/"
+  },
+  {
+   "id": "ketsa--soul-sighs",
+   "title": "Soul Sighs",
+   "artist": "Ketsa",
+   "cover": "/assets/albums/ketsa--soul-sighs-1024.jpg",
+   "dominant": "#3e3d4d",
+   "accent": "#454b73",
+   "duration": 205.5,
+   "tracks": [
+    {
+     "id": "277384",
+     "title": "Jazz for Your Sadness",
+     "src": "/assets/audio/277384.mp3",
+     "sourceUrl": "https://freemusicarchive.org/music/Ketsa/soul-sighs/jazz-for-your-sadness/",
+     "duration": 205.5,
+     "start": 0,
+     "gainDb": -2.7
+    }
+   ],
+   "licence": "CC BY 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "attributionRequired": true,
+   "sourceUrl": "https://freemusicarchive.org/music/Ketsa/soul-sighs/jazz-for-your-sadness/",
+   "artistUrl": "https://freemusicarchive.org/music/Ketsa/"
+  },
+  {
+   "id": "ketsa--master-builder",
+   "title": "Master Builder",
+   "artist": "Ketsa",
+   "cover": "/assets/albums/ketsa--master-builder-1024.jpg",
+   "dominant": "#a6a2a1",
+   "accent": "#9a4845",
+   "duration": 199.4,
+   "tracks": [
+    {
+     "id": "260209",
+     "title": "Teach Me Jazz",
+     "src": "/assets/audio/260209.mp3",
+     "sourceUrl": "https://freemusicarchive.org/music/Ketsa/master-builder/teach-me-jazz/",
+     "duration": 199.4,
+     "start": 0,
+     "gainDb": -3.9
+    }
+   ],
+   "licence": "CC BY 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "attributionRequired": true,
+   "sourceUrl": "https://freemusicarchive.org/music/Ketsa/master-builder/teach-me-jazz/",
+   "artistUrl": "https://freemusicarchive.org/music/Ketsa/"
+  },
+  {
+   "id": "kevin-macleod--jazz-sampler",
+   "title": "Jazz Sampler",
+   "artist": "Kevin MacLeod",
+   "cover": "/assets/albums/kevin-macleod--jazz-sampler-1024.jpg",
+   "dominant": "#662b65",
+   "accent": "#733472",
+   "duration": 499.5,
+   "tracks": [
+    {
+     "id": "50993",
+     "title": "Faster Does It",
+     "src": "/assets/audio/50993.mp3",
+     "sourceUrl": "https://freemusicarchive.org/music/Kevin_MacLeod/Jazz_Sampler/Faster_Does_It_1271/",
+     "duration": 181.8,
+     "start": 0,
+     "gainDb": -0.8
+    },
+    {
+     "id": "50970",
+     "title": "Dances and Dames",
+     "src": "/assets/audio/50970.mp3",
+     "sourceUrl": "https://freemusicarchive.org/music/Kevin_MacLeod/Jazz_Sampler/Dances_and_Dames/",
+     "duration": 146.8,
+     "start": 183.8,
+     "gainDb": -1
+    },
+    {
+     "id": "50972",
+     "title": "I Knew a Guy",
+     "src": "/assets/audio/50972.mp3",
+     "sourceUrl": "https://freemusicarchive.org/music/Kevin_MacLeod/Jazz_Sampler/I_Knew_a_Guy/",
+     "duration": 166.9,
+     "start": 332.6,
+     "gainDb": 0.1
+    }
+   ],
+   "licence": "CC BY 3.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by/3.0/",
+   "attributionRequired": true,
+   "sourceUrl": "https://freemusicarchive.org/music/Kevin_MacLeod/Jazz_Sampler/Faster_Does_It_1271/",
+   "artistUrl": "https://freemusicarchive.org/music/Kevin_MacLeod/"
+  },
+  {
+   "id": "loyalty-freak-music--to-chill-and-stay-awake",
+   "title": "To Chill and Stay Awake",
+   "artist": "Loyalty Freak Music",
+   "cover": "/assets/albums/loyalty-freak-music--to-chill-and-stay-awake-1024.jpg",
+   "dominant": "#4e855f",
+   "accent": "#5ac7a4",
+   "duration": 224.1,
+   "tracks": [
+    {
+     "id": "164359",
+     "title": "Monarch of the street",
+     "src": "/assets/audio/164359.mp3",
+     "sourceUrl": "https://freemusicarchive.org/music/Loyalty_Freak_Music/TO_CHILL_AND_STAY_AWAKE/Loyalty_Freak_Music_-_TO_CHILL_AND_STAY_AWAKE_-_07_Monarch_of_the_street/",
+     "duration": 224.1,
+     "start": 0,
+     "gainDb": -1.5
+    }
+   ],
+   "licence": "CC0 1.0",
+   "licenceUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "attributionRequired": false,
+   "sourceUrl": "https://freemusicarchive.org/music/Loyalty_Freak_Music/TO_CHILL_AND_STAY_AWAKE/Loyalty_Freak_Music_-_TO_CHILL_AND_STAY_AWAKE_-_07_Monarch_of_the_street/",
+   "artistUrl": "https://freemusicarchive.org/music/Loyalty_Freak_Music/"
+  },
+  {
+   "id": "mr-smith--fever-dreams",
+   "title": "Fever Dreams",
+   "artist": "Mr Smith",
+   "cover": "/assets/albums/mr-smith--fever-dreams-1024.jpg",
+   "dominant": "#5c3833",
+   "accent": "#734f48",
+   "duration": 141.7,
+   "tracks": [
+    {
+     "id": "221313",
+     "title": "Django",
+     "src": "/assets/audio/221313.mp3",
+     "sourceUrl": "https://freemusicarchive.org/music/mr-smith/fever-dreams-1/django/",
+     "duration": 141.7,
+     "start": 0,
+     "gainDb": -0.4
+    }
+   ],
+   "licence": "CC BY 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "attributionRequired": true,
+   "sourceUrl": "https://freemusicarchive.org/music/mr-smith/fever-dreams-1/django/",
+   "artistUrl": "https://freemusicarchive.org/music/mr-smith/"
+  },
+  {
+   "id": "shane-ivers--singles",
+   "title": "Singles",
+   "artist": "Shane Ivers",
+   "cover": "/assets/albums/shane-ivers--singles-1024.jpg",
+   "coverCredit": "Typographic sleeve by JazzTor (released without artwork)",
+   "dominant": "#432318",
+   "accent": "#734334",
+   "duration": 410.79999999999995,
+   "tracks": [
+    {
+     "id": "266112",
+     "title": "Sailor Vee",
+     "src": "/assets/audio/266112.mp3",
+     "sourceUrl": "https://freemusicarchive.org/music/shane-ivers/single/sailor-vee/",
+     "duration": 234.6,
+     "start": 0,
+     "gainDb": -2.1
+    },
+    {
+     "id": "266130",
+     "title": "Streetlight Serenade",
+     "src": "/assets/audio/266130.mp3",
+     "sourceUrl": "https://freemusicarchive.org/music/shane-ivers/single/streetlight-serenade/",
+     "duration": 174.2,
+     "start": 236.6,
+     "gainDb": -5
+    }
+   ],
+   "licence": "CC BY 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "attributionRequired": true,
+   "sourceUrl": "https://freemusicarchive.org/music/shane-ivers/single/sailor-vee/",
+   "artistUrl": "https://freemusicarchive.org/music/shane-ivers/"
+  },
+  {
+   "id": "william-ross-chernoff-s-nomads--aim-to-stay",
+   "title": "Aim to Stay",
+   "artist": "William Ross Chernoff's Nomads",
+   "cover": "/assets/albums/william-ross-chernoff-s-nomads--aim-to-stay-1024.jpg",
+   "dominant": "#3a2926",
+   "accent": "#735834",
+   "duration": 1312,
+   "tracks": [
+    {
+     "id": "159502",
+     "title": "Four-Way",
+     "src": "/assets/audio/159502.mp3",
+     "sourceUrl": "https://freemusicarchive.org/music/William_Ross_Chernoffs_Nomads/Aim_to_Stay/William_Ross_Chernoffs_Nomads_-_Aim_to_Stay_-_05_Four-Way/",
+     "duration": 304,
+     "start": 0,
+     "gainDb": -1.2
+    },
+    {
+     "id": "159499",
+     "title": "In Shadows",
+     "src": "/assets/audio/159499.mp3",
+     "sourceUrl": "https://freemusicarchive.org/music/William_Ross_Chernoffs_Nomads/Aim_to_Stay/William_Ross_Chernoffs_Nomads_-_Aim_to_Stay_-_02_In_Shadows/",
+     "duration": 384,
+     "start": 306,
+     "gainDb": -1.2
+    },
+    {
+     "id": "159500",
+     "title": "Aim to Stay",
+     "src": "/assets/audio/159500.mp3",
+     "sourceUrl": "https://freemusicarchive.org/music/William_Ross_Chernoffs_Nomads/Aim_to_Stay/William_Ross_Chernoffs_Nomads_-_Aim_to_Stay_-_03_Aim_to_Stay/",
+     "duration": 250,
+     "start": 692,
+     "gainDb": -1.1
+    },
+    {
+     "id": "159498",
+     "title": "Makie Elkino",
+     "src": "/assets/audio/159498.mp3",
+     "sourceUrl": "https://freemusicarchive.org/music/William_Ross_Chernoffs_Nomads/Aim_to_Stay/William_Ross_Chernoffs_Nomads_-_Aim_to_Stay_-_01_Makie_Elkino/",
+     "duration": 368,
+     "start": 944,
+     "gainDb": -1.4
+    }
+   ],
+   "licence": "CC BY 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "attributionRequired": true,
+   "sourceUrl": "https://freemusicarchive.org/music/William_Ross_Chernoffs_Nomads/Aim_to_Stay/William_Ross_Chernoffs_Nomads_-_Aim_to_Stay_-_05_Four-Way/",
+   "artistUrl": "https://freemusicarchive.org/music/William_Ross_Chernoffs_Nomads/"
+  }
+ ]
+}
