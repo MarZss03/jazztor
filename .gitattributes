@@ -2,6 +2,11 @@
 * text=auto eol=lf
 *.ps1 text eol=crlf
 
+# GitHub language stats: the saved licence pages and the third-party decoders are not this project's code
+audio/licenses/pages/** linguist-documentation
+app/public/draco/** linguist-vendored
+app/public/basis/** linguist-vendored
+
 # binary assets: never diffed or line-converted
 *.png binary
 *.jpg binary
